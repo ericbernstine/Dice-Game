@@ -1,0 +1,46 @@
+.container {
+  margin: 6% 4%;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #EEEBDD;
+}
+
+h1 {
+  margin: 30px 10px;
+  font-family: 'Roboto Mono';
+  font-weight: 500;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: #810000;
+}
+
+p {
+  font-size: 2rem;
+  color: #1B1717;
+  font-family: 'Red Hat Mono';
+  text-align: center;
+}
+
+img {
+  width: 80%;
+}
+
+/* footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+} */
+
+.myButton{
+  margin-top: 3%;
+}
